@@ -1,0 +1,8 @@
+7
+68C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\dist132778359511497814 1
+74C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\index.html132778346119664140 0
+71C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\main.js132778357140908022 0
+79C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\dist\index.html132778347490184478 0
+78C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\operaciones.js132778359510440643 0
+90C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js.map132778359511487854 0
+86C:\Users\LENOVO\Documents\Generation\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js132778359511437973 0
